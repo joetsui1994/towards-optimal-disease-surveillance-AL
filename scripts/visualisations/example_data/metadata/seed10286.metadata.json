@@ -1,0 +1,1193 @@
+{
+    "name": "arcane_squirrel",
+    "up_to_time": 169,
+    "time_increment": 1,
+    "num_agents": 125,
+    "agents": [
+        {
+            "id": "0c078862-d8e0-49",
+            "passive_allocation_policy": "initial(165)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a559c088-bf8f-4b",
+            "passive_allocation_policy": "initial(89)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "8f4cf107-22a7-48",
+            "passive_allocation_policy": "initial(53)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e76c9451-ffb2-4e",
+            "passive_allocation_policy": "initial(131)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "96e41fe0-2944-49",
+            "passive_allocation_policy": "initial(92)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "0a892300-93f1-49",
+            "passive_allocation_policy": "initial(146)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "65cf2a43-faaf-45",
+            "passive_allocation_policy": "initial(36)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "fafbeb6f-f5c9-44",
+            "passive_allocation_policy": "initial(136)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "74e89758-3a06-4a",
+            "passive_allocation_policy": "initial(4)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "50e4a7db-80b4-4e",
+            "passive_allocation_policy": "initial(57)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "218fc5c4-1dca-41",
+            "passive_allocation_policy": "initial(157)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "6dac1d90-0de2-42",
+            "passive_allocation_policy": "initial(27)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "0c0df98b-d942-4f",
+            "passive_allocation_policy": "initial(17)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "0fce13bc-0adb-42",
+            "passive_allocation_policy": "initial(153)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "7cfe1735-7b80-49",
+            "passive_allocation_policy": "initial(115)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "b4b2aa60-bac4-46",
+            "passive_allocation_policy": "initial(16)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e4b255bd-a7df-41",
+            "passive_allocation_policy": "initial(94)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "52b363c6-c9a6-4f",
+            "passive_allocation_policy": "initial(1)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "6ce2f406-824d-45",
+            "passive_allocation_policy": "initial(68)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "4ebe3e73-87b0-4a",
+            "passive_allocation_policy": "initial(8)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "ffb33fcc-b828-40",
+            "passive_allocation_policy": "initial(67)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "07c9b13d-d860-46",
+            "passive_allocation_policy": "initial(135)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "1e2cc2f7-0342-46",
+            "passive_allocation_policy": "initial(130)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e5a50e2c-3427-42",
+            "passive_allocation_policy": "initial(66)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "52313d36-d2e4-45",
+            "passive_allocation_policy": "initial(63)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "random",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "222f13e6-fcce-40",
+            "passive_allocation_policy": "initial(165)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "3c4b830b-8ba3-4f",
+            "passive_allocation_policy": "initial(89)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "b6ed3c2e-2e1f-48",
+            "passive_allocation_policy": "initial(53)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "099b75dd-7f3b-40",
+            "passive_allocation_policy": "initial(131)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e305ad24-248c-48",
+            "passive_allocation_policy": "initial(92)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "d0bfa0f2-961d-44",
+            "passive_allocation_policy": "initial(146)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "2f000af0-9bd4-41",
+            "passive_allocation_policy": "initial(36)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "97cd0f49-63c6-4b",
+            "passive_allocation_policy": "initial(136)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "24addff8-1a68-4d",
+            "passive_allocation_policy": "initial(4)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "728d354c-eef7-4a",
+            "passive_allocation_policy": "initial(57)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "1b12c4cd-adbe-44",
+            "passive_allocation_policy": "initial(157)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "7478078e-9677-42",
+            "passive_allocation_policy": "initial(27)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "b0de4591-a5aa-47",
+            "passive_allocation_policy": "initial(17)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e2cea1c3-b794-49",
+            "passive_allocation_policy": "initial(153)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "4e1a4d64-3951-4c",
+            "passive_allocation_policy": "initial(115)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "901d4062-a79b-42",
+            "passive_allocation_policy": "initial(16)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "49abf2c6-fec3-40",
+            "passive_allocation_policy": "initial(94)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "0151efff-ec00-48",
+            "passive_allocation_policy": "initial(1)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a52f3c79-2544-40",
+            "passive_allocation_policy": "initial(68)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "3bbf9f39-36b2-43",
+            "passive_allocation_policy": "initial(8)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "95bf3192-0aba-4e",
+            "passive_allocation_policy": "initial(67)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "ecfea8f8-1747-46",
+            "passive_allocation_policy": "initial(135)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "c79d7b5f-ad9b-4b",
+            "passive_allocation_policy": "initial(130)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "f7a01acc-1abc-4b",
+            "passive_allocation_policy": "initial(66)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "c40c6b9a-10f0-4d",
+            "passive_allocation_policy": "initial(63)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "reactive_infected",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "ec93999a-f888-47",
+            "passive_allocation_policy": "initial(165)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a62aba21-e800-4d",
+            "passive_allocation_policy": "initial(89)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "6e7eb533-e4ed-44",
+            "passive_allocation_policy": "initial(53)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "1ad942fc-6f60-42",
+            "passive_allocation_policy": "initial(131)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "c0a4a004-c23a-4c",
+            "passive_allocation_policy": "initial(92)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "9bdc766c-96c0-4a",
+            "passive_allocation_policy": "initial(146)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a4219275-c1db-44",
+            "passive_allocation_policy": "initial(36)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "4d93bd78-ab5b-40",
+            "passive_allocation_policy": "initial(136)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "7148f800-042d-43",
+            "passive_allocation_policy": "initial(4)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "8e4870f8-6cf8-46",
+            "passive_allocation_policy": "initial(57)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "c1f46aee-fb1c-47",
+            "passive_allocation_policy": "initial(157)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "8d85bb37-d843-49",
+            "passive_allocation_policy": "initial(27)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "b53d0a2f-78a5-4f",
+            "passive_allocation_policy": "initial(17)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "2d664140-cda5-4b",
+            "passive_allocation_policy": "initial(153)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "70b74969-7d7f-46",
+            "passive_allocation_policy": "initial(115)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "19cb8f37-92e1-41",
+            "passive_allocation_policy": "initial(16)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a098dd6b-795b-46",
+            "passive_allocation_policy": "initial(94)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "5316bb7b-315a-48",
+            "passive_allocation_policy": "initial(1)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "71f0ee31-94f3-4b",
+            "passive_allocation_policy": "initial(68)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "d62f71dc-6c1c-4a",
+            "passive_allocation_policy": "initial(8)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "6f09eb1f-07fb-45",
+            "passive_allocation_policy": "initial(67)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "7b5d8953-727d-45",
+            "passive_allocation_policy": "initial(135)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "940d0e3c-cb72-4c",
+            "passive_allocation_policy": "initial(130)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "7446874d-fdf9-4b",
+            "passive_allocation_policy": "initial(66)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "7d23adb2-1e3f-44",
+            "passive_allocation_policy": "initial(63)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "node_entropy",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "184977a6-b088-4c",
+            "passive_allocation_policy": "initial(165)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "265174ac-43e2-4c",
+            "passive_allocation_policy": "initial(89)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "89f8b59e-efb6-4f",
+            "passive_allocation_policy": "initial(53)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "3841f579-acd0-4d",
+            "passive_allocation_policy": "initial(131)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "639f553a-a951-4a",
+            "passive_allocation_policy": "initial(92)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "9604af63-d7a0-4b",
+            "passive_allocation_policy": "initial(146)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "686fef12-83c2-47",
+            "passive_allocation_policy": "initial(36)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "ff616599-8c8a-49",
+            "passive_allocation_policy": "initial(136)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "2b5a56a4-1036-49",
+            "passive_allocation_policy": "initial(4)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "1b395526-e359-4d",
+            "passive_allocation_policy": "initial(57)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "bd32c3b6-63b7-43",
+            "passive_allocation_policy": "initial(157)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "7582053b-1226-41",
+            "passive_allocation_policy": "initial(27)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "ca9ec319-0da9-47",
+            "passive_allocation_policy": "initial(17)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "3e08032a-f445-42",
+            "passive_allocation_policy": "initial(153)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "b5ccde37-10ff-4d",
+            "passive_allocation_policy": "initial(115)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "834e11c6-5bf8-42",
+            "passive_allocation_policy": "initial(16)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "2580d4f2-3f57-47",
+            "passive_allocation_policy": "initial(94)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "26e3f231-5633-40",
+            "passive_allocation_policy": "initial(1)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "aeae14db-6376-40",
+            "passive_allocation_policy": "initial(68)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "75dcd6fa-bea8-47",
+            "passive_allocation_policy": "initial(8)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "10f0305e-a38d-41",
+            "passive_allocation_policy": "initial(67)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "f92f4edb-0e4b-41",
+            "passive_allocation_policy": "initial(135)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "f71a0368-adac-4a",
+            "passive_allocation_policy": "initial(130)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e2442162-06ae-45",
+            "passive_allocation_policy": "initial(66)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "172b92ce-195a-42",
+            "passive_allocation_policy": "initial(63)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "bald",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "b291c521-fa76-43",
+            "passive_allocation_policy": "initial(165)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "09ff7aff-36c2-45",
+            "passive_allocation_policy": "initial(89)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "f6608369-a6a4-47",
+            "passive_allocation_policy": "initial(53)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "9af96d8f-19a0-43",
+            "passive_allocation_policy": "initial(131)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a71f9b26-e425-46",
+            "passive_allocation_policy": "initial(92)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "dbeb7c8a-44e8-4d",
+            "passive_allocation_policy": "initial(146)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e58f73b1-e62a-4a",
+            "passive_allocation_policy": "initial(36)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a44cddbc-6f20-4e",
+            "passive_allocation_policy": "initial(136)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "c130068c-3056-48",
+            "passive_allocation_policy": "initial(4)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "30263137-86e2-42",
+            "passive_allocation_policy": "initial(57)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "5297bf9f-ebf7-41",
+            "passive_allocation_policy": "initial(157)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "9dd4643b-dbb0-40",
+            "passive_allocation_policy": "initial(27)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "71b4dc0e-8f21-4f",
+            "passive_allocation_policy": "initial(17)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "edf2c2ce-04ac-49",
+            "passive_allocation_policy": "initial(153)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "486dc33e-3fe1-47",
+            "passive_allocation_policy": "initial(115)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "d1380526-8b3c-4b",
+            "passive_allocation_policy": "initial(16)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "3498c657-b352-44",
+            "passive_allocation_policy": "initial(94)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "e3362bab-63ff-4b",
+            "passive_allocation_policy": "initial(1)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "a0ad42fc-cd1a-4e",
+            "passive_allocation_policy": "initial(68)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "0f89113e-7ea1-4e",
+            "passive_allocation_policy": "initial(8)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "26d7975f-f900-46",
+            "passive_allocation_policy": "initial(67)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "70605ae0-c74e-4f",
+            "passive_allocation_policy": "initial(135)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "8acb3588-f11e-41",
+            "passive_allocation_policy": "initial(130)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "b88f374e-e19d-45",
+            "passive_allocation_policy": "initial(66)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        },
+        {
+            "id": "1957f112-e981-44",
+            "passive_allocation_policy": "initial(63)",
+            "passive_allocation_policy_num_batch": 1,
+            "allocation_policy": "le",
+            "allocation_policy_num_batch": 1,
+            "allocation_start_time": 0,
+            "query_rate": 1
+        }
+    ],
+    "configs": {
+        "max_num_core": 10,
+        "out_dir": "/Users/newc6461/sampling-optimisation/TAO/testing/otter/latticeD4/endp03/output/seed10286",
+        "initial_nodes": [
+            165,
+            89,
+            53,
+            131,
+            92,
+            146,
+            36,
+            136,
+            4,
+            57,
+            157,
+            27,
+            17,
+            153,
+            115,
+            16,
+            94,
+            1,
+            68,
+            8,
+            67,
+            135,
+            130,
+            66,
+            63
+        ],
+        "surrogate_configs": {
+            "alpha_params": {
+                "fixed": 0.95,
+                "low": 0.0,
+                "high": 1.0
+            },
+            "tau_params": {
+                "prior": "lognormal",
+                "mu": 0,
+                "sigma": 0.1,
+                "alpha": 3,
+                "beta": 2
+            },
+            "mcmc_params": {
+                "num_warmup": 200,
+                "num_samples": 800,
+                "num_chains": 3,
+                "parallel_chains": true,
+                "num_devices": 3
+            }
+        }
+    },
+    "estimates_log_settings": {
+        "with_hpdi": true,
+        "hpdi_ps": [
+            0.9,
+            0.975,
+            0.95
+        ]
+    }
+}
